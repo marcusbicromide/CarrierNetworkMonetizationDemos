@@ -1,4 +1,4 @@
-# Project Carrier Network Monetization Demos
+# Project - Carrier Network Monetization Demos
 This Project provides opinions and demonstrations of products made possible (in part) by 5G networks.
 
 ![NM](https://user-images.githubusercontent.com/17487052/100970737-9ade8c80-3589-11eb-9ab7-cc02117bddc6.JPEG)
